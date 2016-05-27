@@ -1,0 +1,7 @@
+#trellis td {
+    min-width: 300px;
+    height: 400px;
+}
+#trellis td.first {
+    min-width: 500px;
+}

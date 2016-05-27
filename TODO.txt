@@ -1,0 +1,10 @@
+1. Add base color selection
+2. Integrate color tint calculator script
+3. Modify Options pane
+	a) Add section per metric
+		i. Select colour variation strategy - Gradient/Step [Dropdown]
+			On Gradient - Select base color [Color picker]
+			On Step - Define steps and select color at steps [Slider with color picker]
+		ii. Select chart type - default bar [dropdown]
+4. Split chart [Rows] to add sub-bucket
+5. 
